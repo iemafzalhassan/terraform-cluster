@@ -3,7 +3,7 @@
 ###############################################
 
 # Your current home IP (run: curl -4 ifconfig.me)
-my_home_ip = "182.48.223.179/32" # 👈 CHANGE THIS!
+my_home_ip = "" # 👈 CHANGE THIS!
 
 ###############################################
 # Cluster Configuration
